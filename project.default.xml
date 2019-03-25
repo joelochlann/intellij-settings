@@ -1,0 +1,365 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Performance</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+              </State>
+              <State>
+                <id>Android Lint for Kotlin</id>
+              </State>
+              <State>
+                <id>Code StyleScala</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>CodeSpring CoreSpring</id>
+              </State>
+              <State>
+                <id>CollectionsScala</id>
+              </State>
+              <State>
+                <id>ComparingCollectionsScala</id>
+              </State>
+              <State>
+                <id>GeneralScala</id>
+              </State>
+              <State>
+                <id>IndicesCollectionsScala</id>
+              </State>
+              <State>
+                <id>Initialization issuesJava</id>
+              </State>
+              <State>
+                <id>Internationalization issuesJava</id>
+              </State>
+              <State>
+                <id>JSP Inspections</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>MapsCollectionsScala</id>
+              </State>
+              <State>
+                <id>Method signatureScala</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>OptionsCollectionsScala</id>
+              </State>
+              <State>
+                <id>OtherCollectionsScala</id>
+              </State>
+              <State>
+                <id>OtherScala</id>
+              </State>
+              <State>
+                <id>RegExp</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>Scala</id>
+              </State>
+              <State>
+                <id>Scala/Akka</id>
+              </State>
+              <State>
+                <id>Scala: General</id>
+              </State>
+              <State>
+                <id>ScaladocScala</id>
+              </State>
+              <State>
+                <id>Simplifications: filter and existsCollectionsScala</id>
+              </State>
+              <State>
+                <id>Simplifications: find and map to applyCollectionsScala</id>
+              </State>
+              <State>
+                <id>Simplifications: forall and existsCollectionsScala</id>
+              </State>
+              <State>
+                <id>Simplifications: otherCollectionsScala</id>
+              </State>
+              <State>
+                <id>SizeCollectionsScala</id>
+              </State>
+              <State>
+                <id>Specs2Scala</id>
+              </State>
+              <State>
+                <id>Specs2Specs2Scala</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring CloudSpring</id>
+              </State>
+              <State>
+                <id>Spring CoreSpring</id>
+              </State>
+              <State>
+                <id>Spring DataSpring</id>
+              </State>
+              <State>
+                <id>Style issuesKotlin</id>
+              </State>
+              <State>
+                <id>Syntactic ClarificationScala</id>
+              </State>
+              <State>
+                <id>Syntactic SimplificationScala</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+              <State>
+                <id>XMLSpring CoreSpring</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v8.5.0/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Dropbox/Dev/fpinscala" value="1490300584000" />
+            <entry key="$USER_HOME$/dev/abacus" value="1476114644000" />
+            <entry key="$USER_HOME$/dev/coursera/funsets" value="1462316240000" />
+            <entry key="$USER_HOME$/dev/coursera/recfun" value="1462369130000" />
+            <entry key="$USER_HOME$/dev/csrf-example" value="1477061264000" />
+            <entry key="$USER_HOME$/dev/data-science/funnel" value="1475502488000" />
+            <entry key="$USER_HOME$/dev/facia-scala-client" value="1486378537000" />
+            <entry key="$USER_HOME$/dev/facia-tool" value="1480078037000" />
+            <entry key="$USER_HOME$/dev/fpinscala" value="1488541933000" />
+            <entry key="$USER_HOME$/dev/friendly-tailor" value="1462440615000" />
+            <entry key="$USER_HOME$/dev/frontend" value="1443696242000" />
+            <entry key="$USER_HOME$/dev/frontend-email-reporting" value="1471347771000" />
+            <entry key="$USER_HOME$/dev/frontend-five-a-day" value="1488976644000" />
+            <entry key="$USER_HOME$/dev/identity" value="17490549056000" />
+            <entry key="$USER_HOME$/dev/identity-frontend" value="2913667030000" />
+            <entry key="$USER_HOME$/dev/membership-common" value="1446135457000" />
+            <entry key="$USER_HOME$/dev/mobile-apps-api" value="1477913926000" />
+            <entry key="$USER_HOME$/dev/objsets" value="1462319246000" />
+            <entry key="$USER_HOME$/dev/olgil" value="1476095925000" />
+            <entry key="$USER_HOME$/dev/ophan" value="1462362357000" />
+            <entry key="$USER_HOME$/dev/ophan-data-lake/ophan-stream" value="1466595972000" />
+            <entry key="$USER_HOME$/dev/ophan-data-lake/the-narrator" value="1466595972000" />
+            <entry key="$USER_HOME$/dev/pairing-test-project/scala" value="1473954013000" />
+            <entry key="$USER_HOME$/dev/riff-raff" value="1478877354000" />
+            <entry key="$USER_HOME$/dev/subs-fresh" value="1447695235000" />
+            <entry key="$USER_HOME$/dev/subscriptions-frontend" value="1447694898000" />
+            <entry key="$USER_HOME$/dev/tailor" value="1478000802000" />
+            <entry key="$USER_HOME$/dev/tweet-vault" value="1456761137000" />
+            <entry key="$USER_HOME$/dev/twitter-vault-frontend" value="1447759748000" />
+            <entry key="$USER_HOME$/dev/viewpoints" value="1461072552000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/dev/acquisition-event-producer" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/acquisitions-value-calculator-client" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/contributions-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/contributions-platform/australia-environment-campaign" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/janus" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/membership-common" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/membership-frontend" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/payment-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/play-googleauth/module" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/play-scala-starter-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/scala-play.g8" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/support-admin-console" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/support-frontend" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/support-frontend/support-frontend" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/support-libraries" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/support-workers" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home" />
+      </component>
+      <component name="ThriftCompiler">
+        <compilers />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>scala-sdk-2.11.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
